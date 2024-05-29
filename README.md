@@ -1,15 +1,6 @@
 # <a href="https://akif-jawaid.github.io" target="_blank">My Portfolio</a>
 <p align="justify">This website displays my Projects, Web presence, Story, Work experience, and contact information.</p>
 
-[![Repository Status](https://img.shields.io/badge/Repository%20Status-Maintained-dark%20green.svg)](https://github.com/Akif-Jawaid/portfolio-Akif)
-[![Website Status](https://img.shields.io/badge/Website%20Status-Online-green)](https://github.com/Akif-Jawaid/portfolio-Akif/)
-[![Author](https://img.shields.io/badge/Author-Akif-Jawaid-purple.svg)](https://www.instagram.com/akifjawaid)
-[![Latest Release](https://img.shields.io/badge/Latest%20Release-11%20Jan%202024-yellow.svg)](https://github.com/Akif-Jawaid/portfolio-Akif)
-<a href="https://github.com/Akif-Jawaid/portfolio-Akif/blob/master/LICENSE"><img alt="License" src="http://img.shields.io/:license-mit-blue.svg?style=flat-square?style=flat-square" /></a>
-
-<img width="100%" alt="Portfolio Screenshot" src="https://github.com/Akif-Jawaid/portfolio-Akif/src/src/png/Preview-card-min.png">
-
-
 :star: Star me on GitHub — it helps!
 
 # Sections 📚
